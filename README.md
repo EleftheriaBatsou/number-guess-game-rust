@@ -6,4 +6,4 @@ This is a fun little game in rust. The program generates a random number from 1 
 
 Run it with `cargo run`
 
-Credits and original idea [here](https://www.youtube.com/watch?v=ShqouEM5Dm0&list=PLrOQsSoS-V69jo82lPCIj8a1HLrmQLK2V&index=7&ab_channel=BekBrace).
+[Tutorial](https://eleftheriabatsou.hashnode.dev/tutorial-random-number-guessing-game-in-rust) | Show your love on X/Twitter [here](https://x.com/BatsouElef/status/1806680564038324566) | Credits and original idea [here](https://www.youtube.com/watch?v=ShqouEM5Dm0&list=PLrOQsSoS-V69jo82lPCIj8a1HLrmQLK2V&index=7&ab_channel=BekBrace).
